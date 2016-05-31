@@ -302,7 +302,7 @@ Similar to the walkthrough example, you should first define your visual layout i
 
 **Hint-1:** In order to make your data speak for itself, you may want to consider picking only a subset of dimensions and discard the rest. This will basically avoid outputting too much information at the same time and hence your visualisation will make more sense to the viewer (and to you). 
 
-**Hint-2:** By visualising multiple subsets of dimensions, you can gain more insight in the data at hand. Therefore, you may want to create multiple `.csv` files in which only a selected subset of columns (*i.e.*, dimensions) exists and run your `stackedbarchart.html`, by specifying the desired `.csv` file, on your browser.
+**Hint-2:** By visualising multiple subsets of dimensions (*i.e.*, categories, columns), you can gain more insight in the data at hand. Therefore, you may want to create multiple `.csv` files in which only a selected subset of columns (*i.e.*, dimensions) exists and run your `stackedbarchart.html`, by specifying the desired `.csv` file, on your browser.
 
 **Requirements:** The assignment is complete when it has met the following requirements:
 
